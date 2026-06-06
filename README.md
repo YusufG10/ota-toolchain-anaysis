@@ -1,4 +1,4 @@
-<img width="1614" height="1167" alt="memmap" src="https://github.com/user-attachments/assets/b1d0c1f8-bb41-4582-8567-91ae12895509" />
+
 # OTA Firmware ELF Analizi — `new-firmware.z1`
 
 **Ders:** BİL 304 İşletim Sistemleri · OMÜ Bilgisayar Mühendisliği · Bahar 2025/2026
@@ -95,6 +95,9 @@ $ msp430-size new-firmware.z1
 $ msp430-nm new-firmware.z1 | wc -l   → 1045 sembol
 ```
 Tür dağılımı: 385 global fonksiyon (T), 145 yerel (t), 57+114 bss (B/b), 21+23 data (D/d), 237 mutlak/linker (A).
+
+<img width="1614" height="1167" alt="memmap" src="https://github.com/user-attachments/assets/b1d0c1f8-bb41-4582-8567-91ae12895509" />
+
 
 | Sembol grubu | Anlamı |
 |--------------|--------|
