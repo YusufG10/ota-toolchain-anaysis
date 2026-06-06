@@ -1,3 +1,4 @@
+<img width="1614" height="1167" alt="memmap" src="https://github.com/user-attachments/assets/b1d0c1f8-bb41-4582-8567-91ae12895509" />
 # OTA Firmware ELF Analizi — `new-firmware.z1`
 
 **Ders:** BİL 304 İşletim Sistemleri · OMÜ Bilgisayar Mühendisliği · Bahar 2025/2026
